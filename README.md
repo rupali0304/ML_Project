@@ -1,1 +1,3 @@
 # ML_Project
+# Problem Statement
+# In this project, we will approach the problem by leveraging historical flight data, including features such as departure and arrival cities, travel dates, airline information, and other relevant factors. We will employ machine learning algorithms to analyze this data and build a predictive model that can estimate flight ticket prices based on input parameters provided by users.
